@@ -1,0 +1,7 @@
+progress.md
+CLAUDE.md
+data/
+2 - Predicting creditworthiness.ipynb
+.ipynb_checkpoints/
+__pycache__/
+credit_dataset.xls
